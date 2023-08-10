@@ -1,1 +1,1 @@
-Solutions in Python for week 1 problems
+Solutions are in Python
