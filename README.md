@@ -1,2 +1,4 @@
 # The-Daily-Byte
-My solutions for 'The Daily Byte' coding problems
+The Daily Byte is an email subscription wherein one technical interview problem is sent everyday.
+Each week follows one topic.
+#Week 1 - String problems
